@@ -1,3 +1,3 @@
 export default function StarRating() {
-  return <h1>hello</h1>;
+  return <h1>update star rating branch</h1>;
 }
